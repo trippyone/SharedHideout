@@ -25,7 +25,7 @@ When reporting bugs in GitHub Issues, make sure that you provide a clear descrip
 - SPT 4.0.13 ONLY. Do not use on any other version.
 
 # Features
-##Area upgrade synchronization
+## Area upgrade synchronization
 Area upgrades will be synchronized with other players. The cost of the upgrade is only paid by the player who upgraded the area.
 
 ## Area state synchronization
