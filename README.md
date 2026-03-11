@@ -62,8 +62,8 @@ The configuration is available in ```SharedHideoutServer\config.json```. It will
 ```
 
 # Notes
-Area upgrade cost and item production cost is only paid by the player who initiated them.
-In most cases, a synchronization issue will fix itself by restarting the game. Please report if that isn't the case.
+- Area upgrade cost and item production cost is only paid by the player who initiated them.
+- In most cases, a synchronization issue will fix itself by restarting the game. Please report if that isn't the case.
 
 # Building
 This project was made using Visual Studio 2026.
